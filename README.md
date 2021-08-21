@@ -5,7 +5,14 @@ For Module 2, a solution code was prepared and given to Steve to help better ana
 
 ## Results
 
-### 2017(Solution Code)
+### 2017 (Solution Code)
 ![](Resources/green_stock_analysis_2017.PNG)
 
+### 2017 (Refactored Code)
+![](Resources/VBA_Challenge_2017.PNG)
 
+### 2018 (Solution Code)
+![](Resources/green_stock_analysis_2018.PNG)
+
+### 2018 (Refactored Code)
+![](Resources/VBA_Challenge_2018.PNG)
