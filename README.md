@@ -5,7 +5,7 @@ For Module 2, a solution code was prepared and given to Steve to help better ana
 
 ## Results
 
-# 2017(Solution Code)
+### 2017(Solution Code)
 ![](Resources/green_stock_analysis_2017.PNG)
 
 
