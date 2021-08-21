@@ -15,4 +15,4 @@ For Module 2, a solution code was prepared and given to Steve to help better ana
 ![](Resources/green_stock_analysis_2018.PNG)
 
 ### 2018 (Refactored Code)
-![](Resources/VBA_Challenge_2018.PNG)
+![](Resources/VBA_Challenge_2018.png)
