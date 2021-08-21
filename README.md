@@ -22,6 +22,8 @@ Running the refactored code showed that prior to refactoring, the 2017 analysis 
 
 Upon comparison of the two codes when it comes to the 2018 stock analysis data, the images shows that the original code took roughly .83 seconds to complete whereas the refactored code came in at roughly 1/5 of that time at .17 seconds again.
 
-The difference in speed alone proves that this new edited version of the code is more efficient espeically time efficient in analyzing stock value. In other terms, the new code ran the anaysis five times faster. In the world of cliche economics, time certainly is money and any business would certainly agree that having the same amount of work performed five times faster is to the betterment of the company, its interests, and to the consumers it caters to.
+##Summary
+
+The difference in speed alone proves that this new edited version of the code is more efficient espeically time efficient in analyzing stock value. In other terms, the new code ran the anaysis five times faster. In the world of cliche economics, time certainly is money and any business would certainly agree that having the same amount of work performed five times faster is to the betterment of the company, its interests, and to the consumers it caters to. This statement serves as an advantage to refactoring a code for an efficient analysis overall.
 
 
